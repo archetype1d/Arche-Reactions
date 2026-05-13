@@ -22,7 +22,7 @@ There are at least 3 toggles for each class:<br>
     (things like out of combat sprint)<br>
 <br>
 <br>
-Tank features:<br>
+__Tank features:__<br>
 -full dungeon auto mit<br>
 -variable holds<br>
 -automated buddymit on lowest HP ally<br>
