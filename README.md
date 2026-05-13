@@ -1,4 +1,4 @@
-xSalice General Reaction Profiles<br>
+General Reaction Profiles for AIO<br>
 <br>
 I've done my best here to create profiles designed for dungeons & casual play.
 No more blowing your 2 minute burst on a boss with 1% HP left!<br>
