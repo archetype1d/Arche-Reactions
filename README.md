@@ -8,7 +8,7 @@ No more having to worry about your mitigations either never getting used, or get
 These reactions should work well in all daily roulettes, treasure maps, fates, overworld combat, and what ever else you're doing that isn't raiding. <br>
 <br>
 *THESE ARE FOR GENERAL USE ONLY*<br>
-If you're looking for raid profiles, or timelines, please check out the archekilliox profiles that are hosted over on ekilliox's repository! We collaborate on the raid profiles to bring our best directly to you as quickly & accurately. <br>
+If you're looking for raid profiles, or timelines, please check out the archekilliox profiles that are hosted over on ekilliox's repository! We collaborate on the raid profiles to bring our best directly to you as quickly & accurately as we can. <br>
 <br>
 Please visit the link below for our raid focused reaction profiles!<br>
 https://github.com/ekilliox/archekilliox-profiles-Reaction <br>
