@@ -1,10 +1,7 @@
 {
-  "events/Astrologian/ArcheAST.json": "1.0.0",
-  "events/WhiteMage/ArcheWHM.json": "1.0.0",
   "events/Scholar/ArcheSCH.json": "1.0.0",
-  "events/Sage/ArcheSGE.json": "1.0.0",
   "events/Warrior/ArcheWAR.json": "1.0.0",
-  "events/Paladin/ArchePLD.json": "1.0.0",
+  "events/Paladin/ArchePLD.json": "1.0.1",
   "events/DarkKnight/ArcheDRK.json": "1.0.0",
   "events/Gunbreaker/ArcheGNB.json": "1.0.0",
   "events/Samurai/ArcheSAM.json": "1.0.0",
