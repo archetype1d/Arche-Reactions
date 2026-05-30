@@ -1,9 +1,9 @@
 {
   "events/Scholar/ArcheSCH.json": "1.0.0",
-  "events/Warrior/ArcheWAR.json": "1.0.0",
-  "events/Paladin/ArchePLD.json": "1.0.1",
-  "events/DarkKnight/ArcheDRK.json": "1.0.0",
-  "events/Gunbreaker/ArcheGNB.json": "1.0.1",
+  "events/Warrior/ArcheWAR.json": "1.0.1",
+  "events/Paladin/ArchePLD.json": "1.0.2",
+  "events/DarkKnight/ArcheDRK.json": "1.0.1",
+  "events/Gunbreaker/ArcheGNB.json": "1.0.2",
   "events/Samurai/ArcheSAM.json": "1.0.0",
   "events/Monk/ArcheMNK.json": "1.0.0",
   "events/Reaper/ArcheRPR.json": "1.0.0",
