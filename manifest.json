@@ -12,9 +12,9 @@
   "events/Viper/ArcheVPR.json": "1.0.1",
   "events/Machinist/ArcheMCH.json": "1.0.2",
   "events/Dancer/ArcheDNC.json": "1.0.1",
-  "events/Bard/ArcheBRD.json": "1.0.0",
-  "events/RedMage/ArcheRDM.json": "1.0.0",
-  "events/Pictomancer/ArchePCT.json": "1.0.0",
-  "events/Summoner/ArcheSMN.json": "1.0.0",
-  "events/BlackMage/ArcheBLM.json": "1.0.0"
+  "events/Bard/ArcheBRD.json": "1.0.1",
+  "events/RedMage/ArcheRDM.json": "1.0.1",
+  "events/Pictomancer/ArchePCT.json": "1.0.1",
+  "events/Summoner/ArcheSMN.json": "1.0.1",
+  "events/BlackMage/ArcheBLM.json": "1.0.1"
 }
