@@ -17,7 +17,7 @@ These reactions should work well in all daily roulettes, treasure maps, hunts/fa
 These profiles took many months of testing and iteration to develop. I share them freely because I enjoy contributing to the community. If you build upon this work, all I ask is that you please acknowledge where it came from.
 
 > ⚠️ **THESE ARE FOR GENERAL USE ONLY**  
-> If you're looking for raid profiles or timelines, please check out the **archekilliox** profiles hosted over on [ekilliox's repository](https://github.com/)! We collaborate on the raid profiles to bring our best directly to you as quickly & accurately as we can.
+> If you're looking for raid profiles or timelines, please check out the **archekilliox** profiles hosted over on [ekilliox's repository]([https://github.com/](https://github.com/ekilliox/archekilliox-profiles-Reaction))! We collaborate on the raid profiles to bring our best directly to you as quickly & accurately as we can.
 
 ---
 
