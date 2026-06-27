@@ -1,6 +1,6 @@
 # General Reaction Profiles for AIO
 
-Copyright © 2026 Arche (archredux)  
+Copyright © 2026 Arche (archetype1d)  
 Licensed under the [GNU General Public License v3.0](LICENSE).  
 If you redistribute or create derivative works, please provide clear attribution to this repository.
 
@@ -80,5 +80,5 @@ There are at least 3 toggles available for each job:
 ---
 
 ## Credits
-* **Original Profiles:** Created by Arche (archredux).
+* **Original Profiles:** Created by Arche (archetype1d).
 * **Derivatives:** Derivative works are welcome and protected under the GPLv3 license. Please provide clear attribution back to this repository if you redistribute or build upon these profiles.
