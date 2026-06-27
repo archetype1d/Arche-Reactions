@@ -25,7 +25,7 @@ There are at least 3 toggles for each class:<br>
 -QOL Tweaks<br>
     (things like out of combat sprint)<br>
 <br>
-## Tank features:<br>
+### Tank features:<br>
 -full dungeon auto mit<br>
 -variable holds<br>
 -automated buddymit on lowest HP ally<br>
@@ -43,7 +43,7 @@ There are at least 3 toggles for each class:<br>
 	Class specifics:<br>
 	-samurai hagakure out of combat<br> 
 <br>
-## Physical Ranged features:<br>
+### Physical Ranged features:<br>
 -automatic mitigations<br>
 -variable holds<br>
 -out of combat sprint<br>
@@ -55,7 +55,7 @@ There are at least 3 toggles for each class:<br>
 	-bard dot manager<br>
 	-dancer curing waltz distance & hp checks<br>
 <br>
-## Caster features:<br>
+### Caster features:<br>
 -auto addle<br>
 -auto personal & party mitigation<br>
 -variable holds<br>
@@ -65,13 +65,13 @@ There are at least 3 toggles for each class:<br>
 	-black mage dot manager<br>
 	-summoner rekindle on main tank<br>
 <br>
-## Healer features:<br>
+### Healer features:<br>
 -auto gcd & ogcd healing<br>
 -auto mitigations<br>
 -variable holds<br>
 -dot manager<br>
 -out of combat sprint<br>
 <br>
-## Credits<br>
+### Credits<br>
 Original event profiles created by Arche (archredux).<br>
 Derivative works are welcome under the CC BY-SA 4.0 license. Please provide attribution if you redistribute or build upon these profiles.<br>
